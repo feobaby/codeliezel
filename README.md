@@ -1,4 +1,4 @@
-<h2 align="center"> <b>Hi there, I am Funmilayo Olaiya, commonly called "Funmi."👋</b></h2>
+<h2 align="center"> <b>Hi there, I am Funmilayo Olaiya, commonly called "Funmi."👋🏿</b></h2>
 <h3 align="center"> #BlackLivesMatter</h3>
 <p align="center"> Personal Website - https://funmiolaiya.com Tech. Blog - https://techshrimps.hashnode.dev</p>
 <hr>
