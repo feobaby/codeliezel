@@ -18,6 +18,6 @@ I am very passionate about creating more efficient platforms to aid humanity. Al
 - 🌱 I would soon start learning VueJs - Yay.
 - 👯 I’m looking to collaborate on any budding JavaScript Open-Source Project.
 - 💬 Ask me about anything on back-end web development.
-- 📫 You can reach me thorugh my email: olufunmilayo335@gmail.com
+- 📫 You can reach me through my email: olufunmilayo335@gmail.com
 - 😄 Pronouns: She/Her.
 - ⚡ Fun fact: I actually enjoy cold food!
