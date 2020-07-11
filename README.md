@@ -1,6 +1,6 @@
-<h2 align="center"> <b>Hi there, I am Funmilayo Olaiya, commonly called "Funmi"</b></h2>
+<h2 align="center"> <b>Hi there, I am commonly called "Funmi"</b></h2>
 <h3 align="center"> #BlackLivesMatter</h3>
-<p align="center"> Personal Website - https://funmiolaiya.com Tech. Blog - https://techshrimps.hashnode.dev</p>
+<p align="center">Tech. Blog - https://techshrimps.hashnode.dev</p>
 <hr>
 
 <p align="center">I am a Software Engineer and Technical Writer that lives in Nigeria.
@@ -15,9 +15,9 @@ I am very passionate about creating more efficient platforms to aid humanity. Al
 
 <h3>Other things:</h3>
 
-- 🌱 I would soon start learning VueJs - Yay.
+- 🌱 I am currently learning VueJs - Yay.
 - 👯 I’m looking to collaborate on any budding JavaScript Open-Source Project.
-- 💬 Ask me about anything on back-end web development.
+- 💬 Ask me about anything on backend/frontend web development,.
 - 📫 You can reach me through my email: olufunmilayo335@gmail.com
 - 😄 Pronouns: She/Her.
 - ⚡ Fun fact: I actually enjoy cold food!
