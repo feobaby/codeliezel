@@ -15,7 +15,6 @@ I am very passionate about creating more efficient platforms to aid humanity. Al
 
 <h3>Other things:</h3>
 
-- 🌱 I am currently learning VueJs - Yay.
 - 👯 I’m looking to collaborate on any budding JavaScript Open-Source Project.
 - 💬 Ask me about anything on backend/frontend web development,.
 - 📫 You can reach me through my email: olufunmilayo335@gmail.com
