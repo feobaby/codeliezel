@@ -7,6 +7,8 @@
 I am very passionate about creating more efficient platforms to aid humanity. Also, I love writing technical contents, it helps to sharpen my skills and also be aware of the fact that somebody reads my articles to find a solution to or get started with something.
 </p>
 
+_currently, I am learning Golang_
+
 <h3> More things about me:</h3>
 
 - I do software engineering with @Designed-Platform
