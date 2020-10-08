@@ -1,4 +1,4 @@
-## Hi there, I am commonly called "Funmi" :wave: </b></h2>
-### BlackLivesMatter</h3>
+## Hi there, I am commonly called "Funmi" :wave:
+### BlackLivesMatter
 
-<a href="https://techshrimps.hashnode.dev">Tech. Blog</a>
+<a href="https://ferns.dev/">ferns.dev</a>
