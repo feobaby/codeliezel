@@ -1,4 +1,3 @@
-## Hi there, I am commonly called "Funmi" :wave:
-### BlackLivesMatter
+ Hi there, I am commonly called "Funmi" :wave:
 
-<a href="https://ferns.dev/">ferns.dev</a>
+My tech blog: <a href="https://ferns.dev/">ferns.dev</a>
